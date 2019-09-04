@@ -9,7 +9,6 @@ A simple Categories API that stores category tree to database and returns catego
 Python 3.6.5
 Django Framework 2.2.4
 Django REST Framework 3.10.2
-Django MPTT 0.10.0
 
 
 ### POST /categories/ ​API endpoint.
